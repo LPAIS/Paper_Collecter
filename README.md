@@ -2,7 +2,7 @@
 Categorize CV papers.
 
 
-## Below is an illustration of what should be contained in the paper introduction file. It just points out the basic elements, which means all submissions need to have these components. We encourage the submitter to provide information as much as possible.
+Below is an illustration of what should be contained in the paper introduction file. It just points out the basic elements, which means all submissions need to have these components. We encourage the submitter to provide information as much as possible.
 
 
 ## **The title part of the submission.**
@@ -21,7 +21,7 @@ Categorize CV papers.
 
  + The authors' name and their organization
 
-## ** The main part **
+## **The main part**
 
 * The contributions of this paper, something like what problem solved in this paper, compared to existed approaches what the differences of this paper...
 
