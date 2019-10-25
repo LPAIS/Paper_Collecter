@@ -1,7 +1,7 @@
 # Title: An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition 
  + Referrer: HJ, Level: 10
  + Reasons: One of the most popular framework, CNN+RNN+CTC (CRNN), is proposed in this paper.
- + Proceedings or Journal: TPAMI
+ + Proceedings or Journal: TPAMI  &nbsp; 2016
  + [PDF Link](https://arxiv.org/pdf/1507.05717.pdf)  
  + [Code (Torch7)](https://github.com/bgshih/crnn) [Code (Pytorch)](https://github.com/meijieru/crnn.pytorch)
  + Organization: HUST
