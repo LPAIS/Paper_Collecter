@@ -16,7 +16,7 @@
 # DataSets
  + IIIT-5K, Street View Text (SVT) and ICDAR datasets
  ## Results
- ![The results of CRNN in several datasets.](images/CNN_results.png)
+ ![The results of CRNN in several datasets.](../images/CNN_results.png)
  
  
 #Comments
