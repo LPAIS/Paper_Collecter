@@ -4,7 +4,12 @@ Categorize CV papers.
 
 Below is an illustration of what should be contained in the paper introduction file. It just points out the basic elements, which means all submissions need to have these components. We encourage the submitter to provide information as much as possible.
 
+# How to add a paper:
+1. Add a .md file in the relevant folder, you can create a new folder if necessary.
+2. Add a link in the [Paper_List.md](./Paper.List.md), and create an issue for discussion.
+3. Add the datasets in Datasets.md if necessary.
 
+# What should the main Markdown file contain?
 ## **The title part of the submission.**
 
 + The referrer and the recommended Level (low-high: 1-10).
@@ -30,3 +35,5 @@ Below is an illustration of what should be contained in the paper introduction f
 * The results shown in this paper.
 
 * Your evaluation of this paper.
+
+
