@@ -19,5 +19,5 @@
  ![The results of CRNN in several datasets.](Images/CRNN_results.png)
  
  
-#Comments
+# Comments
  This paper introduces a new framework for sequence labelling. The proposed approach is end-to-end trainable and is very elegant. Furthermore, it achieves good results on relevant datasets.
