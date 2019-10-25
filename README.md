@@ -7,7 +7,7 @@ Below is an illustration of what should be contained in the paper introduction f
 
 ## **The title part of the submission.**
 
-+The referrer and the recommended Level.
++ The referrer and the recommended Level (low-high: 1-10).
 
 + One or two sentences introduction of the paper.
 
