@@ -4,5 +4,5 @@
   
   
 # Few-shot Learning
-## few-shot segmentation
-  + [Pascal-5i](https://pjreddie.com/projects/pascal-voc-dataset-mirror/)  [FSS-1000](https://github.com/HKUSTCV/FSS-1000)
+## Few-Shot Segmentation
+  + [Pascal-5i](https://pjreddie.com/projects/pascal-voc-dataset-mirror/) &nbsp; [FSS-1000](https://github.com/HKUSTCV/FSS-1000)
