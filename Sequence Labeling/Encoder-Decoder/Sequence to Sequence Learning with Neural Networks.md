@@ -22,3 +22,6 @@
    
 + First, the input sequence (ABC) and the output sequence(WXYZ) have different length.
 + The decoder LSTM stops making prediction after outputing the end-of-sentence (EOS) token.
+
+## Encoder
+Given a sequence of inputs $(x_1 ... x_T)$
