@@ -24,4 +24,4 @@
 + The decoder LSTM stops making prediction after outputing the end-of-sentence (EOS) token.
 
 ## Encoder
-Given a sequence of inputs $ (x_1 ... x_T) $
+Given a sequence of inputs $$ (x_1 ... x_T) $$
