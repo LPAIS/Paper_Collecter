@@ -23,5 +23,7 @@
 + First, the input sequence (ABC) and the output sequence(WXYZ) have different length.
 + The decoder LSTM stops making prediction after outputing the end-of-sentence (EOS) token.
 
-## Encoder
-Given a sequence of inputs $$ (x_1 ... x_T) $$
+The actual models differ from the above description in three important ways. 
++ They used two different LSTMs: one for the input sequence and another for the output sequence, because doing so increases the number model parameters at negligible computational cost and makes it natural to train the LSTM on multiple language pairs simultaneously. 
++ They found that deep LSTM significantly outperformed shallow LSTMs, so they chose an LSTM with four layers. 
++ They found it extremely valuable to reverse the order of the words of the input sentence. So for example, instead of mapping the sentence a, b, c to the sentence α, β, γ, the LSTM is asked to map c, b, a to α, β, γ, where α, β, γ is the translation of a, b, c. This way, a is in close proximity to α, b is fairly close to β, and so on, a fact that makes it easy for SGD to “establish communication” between the input and the output. They found this simple data transformation to greatly improve the performance of the LSTM.
