@@ -3,7 +3,6 @@
 + Reasons: One of the first paper about the Encoder-decoder model.
 + Proceedings or Journal: arxiv
 + [PDF Link](https://arxiv.org/pdf/1409.3215.pdf)  
-+ [Code (Torch7)](https://github.com/bgshih/crnn) [Code (Pytorch)](https://github.com/meijieru/crnn.pytorch)
 + Organization: Google
 + Authors: Ilya Sutskever, Oriol Vinyals, Quoc V. Le
 
@@ -20,5 +19,6 @@
 # Algorithm
 + Model Structure
 ![Encoder-decoder structure](../Images/Encoder-decoder.png)
-++ First, the input sequence (ABC) and the output sequence(WXYZ) have different length.
-++ The decoder LSTM stops making prediction after outputing the end-of-sentence (EOS) token.
+   
++ First, the input sequence (ABC) and the output sequence(WXYZ) have different length.
++ The decoder LSTM stops making prediction after outputing the end-of-sentence (EOS) token.
