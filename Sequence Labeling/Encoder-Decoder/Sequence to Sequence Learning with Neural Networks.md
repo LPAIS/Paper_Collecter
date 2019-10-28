@@ -1,4 +1,4 @@
-# Title Sequence to Sequence Learning with Neural Networks
+# Title: Sequence to Sequence Learning with Neural Networks
 + Referrer: HJ, Level: 10
 + Reasons: One of the first paper about the Encoder-decoder model.
 + Proceedings or Journal: arxiv
