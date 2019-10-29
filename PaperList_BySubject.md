@@ -5,3 +5,6 @@
 ## Encoder-decoder
  + <a href="./Sequence Labeling/Encoder-Decoder/Sequence to Sequence Learning with Neural Networks.md" target="_blank">Sequence to Sequence Learning with Neural Networks. (2014-arxiv-Ilya Sutskever-Google)</a>
 
+## Attention-Based
+ + <a href="./Sequence Labeling/Attention-Based/Effective Approaches to Attention-based Neural Machine Translation.md" target="_blank">Effective Approaches to Attention-based Neural Machine Translation. (2015-EMNLP-Thang Luong-Stanford)</a>
+ + <a href="./Sequence Labeling/Attention-Based/Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks.md" target="_blank">Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks. (2015-NIPS-Samy Bengio-Google)</a>
