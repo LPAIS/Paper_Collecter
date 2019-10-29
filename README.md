@@ -6,7 +6,7 @@ Below is an illustration of what should be contained in the paper introduction f
 
 # How to add a paper:
 1. Add a .md file in the relevant folder, you can create a new folder if necessary.
-2. Add a link in the <a href="./Paper_List.md">Paper_List.md</a>, and create an issue for discussion.
+2. Add a link in the <a href="./PaperList_BySubject.md">PaperList_BySubject.md</a>, and create an issue for discussion.
 3. Update the link in the <a href="./PaperList_ByAuthor.md">PaperList_ByAuthor.md</a>
 4. Add the datasets in <a href="./Datasets.md">Datasets.md</a> if necessary.
 
