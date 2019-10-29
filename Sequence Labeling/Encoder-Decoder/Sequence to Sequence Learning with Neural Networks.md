@@ -1,10 +1,11 @@
 # Title: Sequence to Sequence Learning with Neural Networks
 + Referrer: HJ, Level: 10
 + Reasons: One of the first paper about the Encoder-decoder model.
-+ Proceedings or Journal: arxiv
++ Proceedings or Journal: NIPS
 + [PDF Link](https://arxiv.org/pdf/1409.3215.pdf)  
 + Organization: Google
-+ Authors: Ilya Sutskever, Oriol Vinyals, Quoc V. Le
++ Ref: Ilya Sutskever, Oriol Vinyals, Quoc V. Le: Sequence to Sequence Learning with Neural Networks. NIPS 2014: 3104-3112
+
 
 # Contributions
 + Propose a general end-to-end approach to sequence learning that makes minimal assumptions on the sequence structure.
