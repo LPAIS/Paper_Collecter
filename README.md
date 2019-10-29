@@ -25,7 +25,7 @@ Below is an illustration of what should be contained in the paper introduction f
 
  + Where is the paper published?
 
- + The authors' name and their organization
+ + Reference item
 
 ## **The main part**
 
